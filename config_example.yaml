@@ -1,0 +1,4 @@
+# 直播间号
+room_id: 0
+# 进入直播间时发送一条消息。留空则不发送
+enter_message: "hello"
